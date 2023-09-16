@@ -7,3 +7,6 @@ tabulate
 sklearn
 dgl
 slither-analyzer
+py-solc
+networkx==2.4
+pygraphviz
